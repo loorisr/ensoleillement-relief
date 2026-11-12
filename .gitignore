@@ -1,0 +1,9 @@
+# Données téléchargées et résultats volumineux
+cache/
+sorties/
+test/
+__pycache__/
+*.pyc
+
+# Rapports locaux (positions privées) : ne jamais versionner
+rapport*/
